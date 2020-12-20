@@ -1,0 +1,12 @@
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/bin/Debug/netcoreapp3.1/CW1.deps.json
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/bin/Debug/netcoreapp3.1/CW1.runtimeconfig.json
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/bin/Debug/netcoreapp3.1/CW1.runtimeconfig.dev.json
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/bin/Debug/netcoreapp3.1/CW1.dll
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/bin/Debug/netcoreapp3.1/CW1.pdb
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.csprojAssemblyReference.cache
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.AssemblyInfoInputs.cache
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.AssemblyInfo.cs
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.csproj.CoreCompileInputs.cache
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.dll
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.pdb
+/Users/dalalaljassem/Documents/GitHub/gamedev-cw-1/CW-1-1/CW1/CW1/obj/Debug/netcoreapp3.1/CW1.genruntimeconfig.cache
